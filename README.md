@@ -1,2 +1,2 @@
 # Snake Game
- Javascript Snake
+ Javascript Snake with a twist, The food moves as well. 
